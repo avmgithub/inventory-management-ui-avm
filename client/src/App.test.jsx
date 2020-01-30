@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-mport {StockItemMockService} from "./services/stock-item-mock.service";
+import {StockItemMockService} from "./services/stock-item-mock.service";
 
 
 describe('App', () => {
